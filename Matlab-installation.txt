@@ -1,0 +1,35 @@
+Matlab-Installation
+==============================================================
+Step-1: Double click on the setup file.
+
+Step-2: Select "Use a File installation Key" and click on next.
+
+Step-3: Accept the license agreement and click on next.
+
+Step-4: Select "I have a file installation key for my license" and click on next.
+
+Note: For key check for the crack folder -> readme text-file.
+
+Step-5: Select the installation path for example -> "c:\Program Files\MATLAB\2017B" and click on next.
+
+Step-6: Select all respective modules to be installed(Select all the modules) and click on next.
+
+Step-7: After selecting respective modules click on install(Installation will take more time(More than one hour)).
+
+Step-8: After installation click on finish.
+
+
+To Install Matlab crack follow below steps:
+
+Step-1: From crack folder copy "license_standalone.lic" file to "c:\Program Files\MATLAB\2017B\licenses"(Replace the file).
+
+Step-2: From "crack\2017b\bin\win64" folder copy "netapi32.dll" file to "c:\Program Files\MATLAB\2017B\bin\win64"(Replace the file).
+
+Step-3: Open matlab application through Windows+search option.   
+
+
+
+
+
+
+
